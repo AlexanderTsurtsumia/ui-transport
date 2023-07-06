@@ -58,6 +58,12 @@ ul {
     padding-top: 130px;
     height: 60%;
 }
+.bttn-02 {
+    width: 183px;
+    height: 48px;
+    padding: 12px 36px 12px 36px;
+    border-radius: 5px;
+}   
 .map {
     margin-left: -100px;
 }
@@ -140,7 +146,6 @@ ul {
     margin-top: -14%;
 }
 .btn-txt2 {
-    margin-top: 20%;
     color: #FFF;
     font-size: 16px;
     font-family: 'Rubik';
